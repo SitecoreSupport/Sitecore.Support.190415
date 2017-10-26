@@ -64,6 +64,8 @@
     <Reference Include="System.Configuration" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MarkEmailRenderSessionTransientDecorator.cs" />
+    <Compile Include="DispatchRequestProcessorDecorator.cs" />
     <Compile Include="LoadEmailRenderSessionContactDecorator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
