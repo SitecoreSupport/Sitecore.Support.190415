@@ -1,5 +1,5 @@
 # Sitecore.Support.190415
-EXM: To fix 'Tracker.Current is not initialized' error when xDB is disabled
+EXM: To fix 'Cannot use DataAdapterProvider as xDB is disabled' error
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.190415/blob/master/LICENSE).  
